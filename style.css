@@ -16,7 +16,7 @@
 body {
     height: 100vh;
     margin: 0;
-    background: #360033;
+    
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #360033, #0b8793);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -334,11 +334,8 @@ footer {
         height: 400px;
         border-radius: 50%;
         background: #feab5e9c;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #4bc0c8cb, #c779d0cb, #feab5ebb);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #4bc0c8af, #c779d0b0, #feab5ea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-        
-
+        background: -webkit-linear-gradient(to right, #4bc0c8cb, #c779d0cb, #feab5ebb);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #4bc0c8af, #c779d0b0, #feab5ea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         top: 0;
         left: 20;
         z-index: -1;
@@ -390,13 +387,7 @@ background: linear-gradient(to right, #4bc0c8af, #c779d0b0, #feab5ea2); /* W3C, 
 
 
 
-    body {
-        height: 100vh;
-        margin: 0;
-
-        background-color: #0A0C1D;
-        font-family: roboto;
-    }
+    
 
 
 
